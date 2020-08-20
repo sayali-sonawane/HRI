@@ -1,0 +1,49 @@
+HRI articles
+
+http://wiki.ros.org/kinetic/Installation/Ubuntu
+https://docs.google.com/document/d/1sW-Hcd1oZbv9dxmNm3nGN_jWEmKwKsZtsL9qaa-0QZY/edit
+
+List of Project Ideas
+
+Personalized Tutoring
+
+Tool training: Robot instructs best practices to use tools
+Encouraging/measuring engagement during instruction
+Plan triage: Robot intercedes when human is executing a bad plan
+Physical form/pose coaching: Sports and therapy applications
+Safe Motion Planning
+
+Communicate intention of motion / social navigation
+Adapting dangerous task execution in presence of human (to minimize potential harm)
+Build motion models from human activity in various contexts (e.g., task, time of day, location/environment)
+Robot monitors human to enforce safe behavior (e.g., drowsy driver)
+Predicting human task plans
+Robot capable of finding and tracking a person based on their voice and then computer vision
+Simulated Microgravity Navigation with Augmented Reality Path Planning and Motion Previews
+Non-verbal Behaviors
+
+Learning to maximize engagement for invasive tasks (e.g., handing out leaflets to people, making announcements that are remembered)
+Non-verbal behaviors to increase/recover engagement
+Using context to assess appropriateness of various communication modalities
+Determining group leader / detecting group dynamics
+Model affective state through reading non-verbal behaviors (changing someone's state through manipulation)
+Using affective response of human to parameterize actions (e.g., move slowly if human is afraid)
+Parameterization of attention by observing the body language
+Human-Robot Trust
+
+Embedding active listening within the robots to make empathetic connections and engender trust.
+Using non-verbal cues for collaboration/trust
+Dynamic variability of assigning task based on assessment of trust and skills
+Handing bulky object to a human and assessing human readiness / capability (is person grabbing safe areas etc).
+Synchronizing Mental Models of Tasks or Actions
+
+A system for working with multiple robots and humans where each robot independently decides what information it needs to share to the other robots and/or humans based on the its capabilities, the other robot's capabilities, and the humans.
+Modeling objects and getting the bottom-up cost estimation during negotiation or cost analysis.
+Building a model of human perception to estimate human knowledge of scene
+Editing of GMM keyframed tasks using constraints to develop new skills
+Human-Robot Collaboration
+
+Robot communicates desires/needs it can't complete on it's own so human can aid robot in completing a task.
+During a fetching task, report back what else is at an objects location that apply to the current task at hand
+A cooking assistant robot capable of handling requests such as 'pass me 2 onions' or 'stir this until the garlic is golden brown.' Going further, the robot could become context-aware based on what's being cooked and add ingredients at the right time.
+Robot adjusting search pattern based on human location/movement during a search task
